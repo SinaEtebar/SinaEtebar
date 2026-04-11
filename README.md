@@ -1,4 +1,4 @@
-Hi 👋 I’m a physics student. I'm also a hacker and develop useful tools for finding vulnerabilities in web applications.
+Hi 👋 I’m a physics student.
 
 <!---
 SinaEtebar/SinaEtebar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
